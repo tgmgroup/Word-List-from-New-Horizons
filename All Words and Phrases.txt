@@ -1,69 +1,85 @@
 (1970)s
-(Kaito)'s
-… kind(s) of ～
-… such as ～
-… year(s) old
+(Riko)'s
+... kind(s) of ～
+... such as ～
+... year(s) old
 a
-a … amount of ～
-a … variety of ～
-a few
-a glass of
-a kind of
+a ... amount of ～
+a few 
+a glass of 
 a little
 a lot of
 a piece of
 a.m.
+ability
+able
+about
+about
 about
 above
 abroad
 accept
-accident
+accessible
+accessory
 according
 according to
+acid rain
 across
-act
 action
 active
 activity
 actor
 actually
+add
+addition
+adjust
+adjustable
+adult
+advantage
+adventure
 advice
-affect
+affordable
 Afghanistan
 afraid
+Africa
+African
+after
+after
 after
 after a while
-after all
+after school
 afternoon
+aftershock
 again
+again and again
 against
 age
 ago
-agony
 agree
-agree with
-AI
 air
-air conditioner
-airplane
-Alaska
-Alaskan
+airport
 album
+alien
 alive
+all
+all
 all
 all over
 all right
 All right.
-All the best,
 all the time
 almost
+alone
 alone
 along
 already
 also
+also
+although
 always
 am
-amaze
+am
+am
 amazing
 America
 American
@@ -73,104 +89,148 @@ amusement park
 an
 ancient
 and
+and
+and
+and
+and
 and so on
-angle
+and so on
 angry
 animal
-animated
+animal-free
 animation
+anime
 announce
-announcement
+annoyed
+annual
+another
+another
 another
 answer
+answer
+ant
 any
+any
+any
+anymore
 anyone
 anything
 anyway
 anywhere
-apologize
+apartment
 appear
 apple
-apply
+appoint
 April
 apron
 aquarium
-archery
-Arctic
+Arabic
+architecture
+are
+are
+are
 are
 area
 aren’t
+Argentina
 arm
 around
+around
+around
+around
+around
+arrangement
 arrest
 arrive
-arrive at
+arrow
 art
+art school
 article
+artificial
 artist
-artistic
-arts and crafts
+as
+as
+as
 as
 as a result (of)
 as for
 Asian
+Asiatic black bear
+aside
 ask
-ask … a favor
+ask
+ask ... a favor
+assist
 astronaut
 at
-at first
-at home
+at
+at
+at
+at
+at first 
+at home 
 at night
 at that [the] time
 ate
 athlete
-athletics
-attach
-attend
+attract
 attracted
-attractive
-audience
 August
 aunt
 Australia
+author
+automatic
 autumn
-avocado
+available
+avoid
+avoid ...ing
 away
-awesome
+away
 Azerbaijan
 baby
 back
 backpack
+bacon
 bad
 badminton
 bag
+baggage
+bake
 baker
 ball
 ban
 banana
 band
-Barack Obama
+bang
 barrier
 baseball
+-based
+basket
 basketball
 bat
 bath
-bathroom
+bath
+bathtub
+batter
 battery
 be
+be
+be
+be [become] concerned about
+be able to
 be about to
-be afraid to
-be amazed at
+be afraid of
+be afraid to 
 be careful with
-be different from
-be full of
-be going to
-be good at
+be caught in
+be full of 
+be going to 
+be good at (...ing)
 be in danger of
 be interested in
 be ready for
-be satisfied with
 beach
+bead
 bean
 bear
 beat
@@ -180,67 +240,72 @@ became
 because
 because of
 become
+become
 bed
 beef
-beefstake
 been
+before
+before
 before
 began
 begin
 begin to
-beginner
 beginning
-behavior
 behind
 believe
 bell
+belong
+beloved
 below
+belt
 bench
 berry
-beside
-besides
 best
-Best wishes for ….
+best
+best
 Best wishes,
+bestseller
+better
 better
 between
 beyond
 bicycle
 big
-Big Ben
+big
 bike
 bill
-billion
+Bill Gates
+biologically
 bird
 birthday
 bitter
 black
-blend
-blind
+Blakiston's fish owl
 block
 blog
+blouse
 blue
-Blue Mountains
-boat
-Bob
+board game
 body
 bomb
+bonito flake
 book
 bookstore
 boots
 border
 bored
+boring
 born
 borrow
 both
 bother
 bottle
+bottom
 bought
+bowl
 box
-boxing
 boy
 braille
-brain
 brass band
 brave
 Brazil
@@ -250,91 +315,129 @@ breakfast
 breed
 bridge
 bright
+brilliant
 bring
+bring
+bring ... together
 bring back
 British
-British Museum
-broccoli
+British
+broadcasting
 brother
 brought
 brown
 brush
-Bugis
+brutality
+Buddha
+bug spray
 build
 building
 built
-bump
-burden
+built
+bullet
 burn
+burn
+bury
 bus
+bus stop
 busy
 but
+butter
+butterfly
 buy
 by
-bye
-Bye for now,
+by
+by
+by
+by
+by
+by the way
 cabbage
+cacti
 cafe
+cafeteria
 cake
-calender
-California roll
 call
-call back
-Call me ….
+call
+Call me ....
 calligraphy
 came
+camel
 camera
 camp
 campaign
+campfire
 campground
 camping
 can
+can
+can
+can
+can
+can
 can’t
-canal
-cancer
+Canada
+Canada Place
+Canadian
 candle
 candy
 cannot
-canoe
 cap
-capture
+Capilano River
+Capilano Suspension Bridge
+captain
 car
-carbon dioxide
 card
 care
+care worker
 career
-Career Day
 careful
 carefully
-caribou
-carrot
+careless
+carpenter
 carry
+cart
+cartoon
+cartoonist
 case
+castanets
 castle
+casual
 cat
 catch
-Cebu
+categorize
+caterpillar
+caught
+cause
+cedar
+celebrate
 center
 century
-certainly
+ceremony
 chair
 challenge
-championship
+chance
+change
+change
+change
 change
 change trains
 character
 charge
-Charlie
+charm
+chart
+chase
 cheap
 check
-check … out
 cheer
-cheer … up
+cheer ... up
+cheerful
 cheese
 cheetah
 chef
 chemical
 cherry
+chestnut
 chicken
 child
 childhood
@@ -342,66 +445,98 @@ children
 Children's Day
 China
 Chinese
+Chinese
 chocolate
+choice
 choose
 choose to
+chop
+chopstick
 chorus
 chorus contest
+chose
+chosen
+Christian
+Christmas
+Christmas Day
+church
+circle
 circle
 citizen
 city
 city hall
-City Lights
+clap
 class
+class
+classic
 classmate
 classroom
 clean
+clean
+clean up
+cleanup
+clear
 clearly
 clerk
+client
 climate
 climb
-climber
-climbing
 clock
-clock tower
 close
+closing
 cloth
 clothes
+clothing
+cloud
 cloudless
 cloudy
 club
-coach
 coal
 coat
 coffee
 coin
 cold
 collect
-college
+collection
 colony
 color
+color
 colorful
+colorfulness
+colorless
+comb
+come
 come
 come from
-come in
-Come on.
+come out of
 come true
+come up
+come up with
 comedian
-comedy
+comfort
 comic
-comic book
-comic storytelling
+Coming-of-Age Day
 comment
 common
 communicate
+communication
+community
+commute
 company
+compare
+compulsory
 computer
+concern
 concert
+conclusion
 condition
+confectioner
 conference
-Congo
 connect
+consist
+Constitution Day
 consumer
+consumption
 contact
 content
 contest
@@ -410,141 +545,185 @@ control
 convenience
 convenience store
 convenient
+conveyor belt
 cook
 cookie
 cooking
 cool
+cooperate
+coral reef
+core
+cork
 corn
 corner
-corner kick
+cotton
+could
+could
 could
 couldn’t
 count
-count down
 country
 countryside
 couple
 courage
 course
+court
 cousin
+cover
 cow
+crater
 crayon
+cream
+cream puff
 create
-creative
-crested ibis
-cricket
+creativity
+creature
+creep
+crept
+crime
+crisis
+crispy
+critically
 cross
-crowd
+crosse
 crowded
-cruise
 cry
-cucumber
+cuisine
 cultural
 culture
+Culture Day
 cup
-curious
+curling
 curry
-curry and rice
 cushion
+custom
 customer
-custom-made
+cut
 cut
 cute
-cycling
 dad
 daily
 dam
 damage
 dance
+dance
 dancing
 danger
 dangerous
+dark
+darkness
 data
 date
 daughter
-David
 day
 dead
 dear
 death
 debate
 December
+decent
 decide
 decide to
 decision
-decorate
 decrease
-deep
+decrease
+dedicated
 definitely
+deforestation
+delicate
 delicious
+deliver
 delivery
 Denmark
-dentist
-department store
 depend
 depend on
+desert
+desertification
 design
+design
+designer
 desk
 dessert
 destroy
-detail
+destruction
+destructive
 develop
+developed
+developing
 development
 device
-diamond
-Diane
 dictionary
 did
 didn’t
 die
-die out
-difference
+different
 different
 difficult
+difficulty
+dig
+diligent
 dinner
-dinosaur
-directly
+direction
+dirty
 disabled
 disagree
 disappear
+disappointed
 disaster
 discover
 discrimination
+discussion
 dish
-dive
-diving
+dish
+display
+distribute
+diverse
+diversity
 do
-do one's best
+do
+do
+do one’s best
 do well
 doctor
 dodgeball
+does
 does
 doesn’t
 dog
 dollar
 Dolls' Festival
-domestic
+dolphin
+dome
 don’t
+don’t [doesn’t] have to
 donate
 done
-don't [doesn't] have to
+donut
 door
 door-to-door
-dot
+double
 down
+down vest
 downtown
-Downtown Line
 drama
 draw
+drawing
+drawing
+drawn
 dream
-drill
+dream catcher
+dress
+dried green seaweed
 drink
-drive
+drink
 driver
 drop
-drop out
-drove
+drought
 drum
+dry
+due
+due to
+dugong
 during
 each
 each other
@@ -553,15 +732,19 @@ early
 earn
 Earth
 earthquake
+Earthquake Early Warning
 easily
-east
-East West Line
 easy
+easygoing
 eat
 eat out
+eco-friendly
+economic
 ecosystem
+education
+educational
+eel
 effective
-effectively
 effort
 egg
 Egyptian
@@ -570,44 +753,60 @@ eighteen
 eighteenth
 eighth
 eighty
-either
 elderly
 electricity
 electronic
-electronic device
 elementary school
 elephant
+elevator
 eleven
 eleventh
+Elfie
 else
 e-mail
+embarrassed
 emergency
-Emma
+emergency exit
+emergency management
+Emma Watson
+emperor
 employee
+empty
 encourage
-encourage … to ～
+encourage ... to ～
+end
+end
 end
 endangered
-ending
+energetic
 energy
 English
+English
 enjoy
-enjoy …ing
+enjoy ...ing
 enjoy oneself
 enough
+ensure
+enter
+entirely
 entrance
 entrance ceremony
+entrance examination
 envelope
 environment
-era
+environmental
+equality
+equipment
 eraser
+eruption
+escape
 especially
-establish
+essay
+ethical
 ethnic
-Euan Craig
-eucalyptus
 evacuation
 evacuation drill
+even
 even
 even if
 evening
@@ -615,582 +814,814 @@ event
 eventually
 ever
 every
+every
 every day
 every year
 everyone
 everything
-everywhere
+examination
 example
+except
 exception
 exchange
 excited
 exciting
 excuse
+excuse
 Excuse me.
-exhibition
+exhaust gas
+existence
+expansion
+expect
 expensive
 experience
+experience
 explain
+export
+express
 extend
+extensive
+extinct
 extinction
 extinguisher
+extremist
 eye
 eye contact
+fabric
+face
 face
 facility
 fact
+factory
+fail
+fair
+fair
+fair-trade
+fall
+fall
 fall
 fall down
 family
+family
 famous
+fan
 fan
 fantastic
 far
 farmer
+fashion
+fast
 fast
 father
+father
+faucet
 favor
+favorite
 favorite
 feather
 feature
 February
+feed
 feedback
 feel
-feel free to
-feel like …ing
+feel like ...ing
 feeling
+feet
 fell
 felt
-Ferris Wheel
+felt
 festival
 fever
 few
-fiction
 field
+field hockey
 field trip
 fifteen
 fifteenth
 fifth
 fifty
 fight
-figure skater
-Filipino
+fight
+fill
+fill ... with 〜 
+filling
+film
+final
 finally
 find
+find
 fine
-finger
+fine
 finish
 fire
+fire
+fire alarm
+fire drill
 fire fighter
 fire station
 firework
+firmness
 first
-first-hand
+first
 fish
-fish and chips
 fishing
 five
+flat
+flavor
+flight
 flight attendant
-florist
+flip
+flood
+floor
+floral
 flour
 flower
 fly
-focus
 fold
-fold … up
+fold ... up 
+folding
+folk
 follow
 follower
 food
-food mile
-foolish
+food bank
+food chain
+food court
 foot
-football
 for
-for a long time
-for another
+for
+for
+for
+for
+for
+for
+for
+for
+for
+for
+for
+for
+for
+for a long time 
 for example
-for himself
-for now
+for himself 
 for one thing
-for sale
 for the first time
+force
 foreign
+foreigner
 forest
 forever
 forget
-forgetful
-fortunately
+form
+formally
+former
+fortune slip
 forty
 forward
-fossil
-fossil fuel
 found
+found
+found
+founder
 four
 fourteen
 fourteenth
 fourth
+fox
+France
+frank
+free
 free
 freedom
 freely
-French flies
+French
+French fries
+fresh
 Friday
+fried
 fried chicken
-fried noodles
+fried egg 
 friend
 friendly
+frighten
 frog
 from
-from abroad
+from
+from
+from
+from far away 
+from now on
 front
 fruit
+frying pan
+full
 full
 fun
-functional
+fun
 funny
+fur
+furthermore
 future
+future
+gallery
 game
-Gandhi
-garage
+game
 garbage
-gas station
+garden
+gardener
+Gastown Steam Clock
+gate
 gather
 gave
+gear
+gender
 general
+generous
+genre
 gentle
+German
+Germany
 get
-get fired
-get out
-get out of
-get over
-get to
-get up
-Get well soon!
+get
+get
+get the most out of
+get to 
+get up 
 gift
+giraffe
 girl
 give
-given
 glacier
 glad
 glass
+glasses
+global
 global warming
-globally
 globe
 glove
-glue stick
+glue
 go
-go …ing
-go along
-go back
+go
+go ...ing 
+go along 
+go back 
 go by
-go on
-go out
-go through
-go up
-Godzilla
+go on 
+go out 
+go through 
+go to bed
+goal
+god
 golden
-gondola
-gone
+goldfish
 good
-Good job.
+good
+good
+Good for you!
 Good luck.
 Good morning.
 goodbye
-goodness
 goods
+goodwill ambassador
 gorilla
 got
 government
-graduate
-graduation
 graduation ceremony
-grand
-Grand Canal
-Grand Slam
 grandfather
 grandma
 grandmother
+grandpa
+grandparent
 grape
 graph
+graphic designer
+gravy
+great
+great
 great
 greatly
 green
-green pepper
 green tea
+green turtle
+Greenery Day
+greenhouse effect
 grew
+grill
 grilled fish
 ground
 group
 grow
+grow
+grown
 growth
-guess
-Guess what!
 guest
-guest book
+guidance
 guide
 guitar
+gun
 gym
-gymnastics
 habitat
 had
 hair
+hairstylist
 half
-hall
-halo-halo
+Halloween
+hallway
+ham
 hamburger
 hand
-hand out
+handbag
+handcrafted
+handkerchief
 handle
 handrail
+hang
 happen
 happy
-Happy birthday!
-Happy New Year!
 hard
+hard
+hard
+harm
+harmonica
 harmoniously
 has
 has to
 hasn’t
 hat
 have
-have a … time
+have
+have
+have
+have
+have
+have a ... time 
 have been to
+have been to 
 have never [not] been to
-have no idea
-have to
+have never [not] been to
+have to 
 haven’t
-Hawaii
 he
 he’s
 head
 headache
-health
+Health-Sports Day
 hear
-hear from
-hear of
+hear
+hear of 
+heard
 heard
 heart
 heat
+heat pad
 heavy
+hectare
 held
 hello
+hello
 help
-help … with ～
+help
+help
+help ... with ～ 
 helpful
 her
+her
 here
-Here are ….
-Here you are.
+here
+here
+Here is [are] ....
+Here you are. 
 here’s
 heritage
 hero
 hers
 herself
-he's
 hey
 hi
+hidden
 high
-high school
+high
 hiking
 him
 himself
+himself
+Hindi
 his
+his
+historical
 history
-hobby
+hit
+hit
 hold
+holder
 hole
 holiday
 home
+home
+home
 home economics
 homestay
+hometown
 homework
-Honolulu
+honest
 hope
-hope to
-hopeful
-horizon
-horror
+hope
 horse
 hospital
 host
-host family
+host family 
 hot
+hot dog
+hot plate
+hot spring
 hotel
+hour
 hour
 house
 how
-How about …?
+how
+how
+how
+How about ...?
 How about you?
 How are you?
-How long …?
-How many …?
-How much …?
+How long ...?
+How many ...?
+How much ...? 
+How much ...? 
 How nice!
+How old ...?
 how to
 how’s
 however
+hug
 human
 human being
 human rights
+humane
+humid
 hundred
+hunger
 hungry
 hunt
 hunting
 hurt
-husband
-hut
 I
-I know.
 I see.
 I’d
 I’ll
 I’m
+I’m sorry.
 I’ve
 ice
 ice cream
+ice hockey
+ice skate
 Iceland
 idea
+ideal
 if
+if
+ignorance
+ignore
 ill
 illegal
+illiteracy
 illiterate
-I'm
-I'm sorry (that) ….
+illustration
 image
+imagination
 imagine
+impact
+impatient
 import
+importance
 important
+impossible
+impressive
+improve
 improve
 in
+in
+in
+in
+in
+in
+in
+in
+in addition
 in case of
-in front of
-in full
-in line
+in conclusion
+in fact
+in front of 
+in full 
+in memory of
 in need
-in season
-in the future
+in the end
+in the future 
 in the middle of
 in the open air
 in those days
 include
 increase
+increase
+increase
 independence
 India
-Indian
+indigenous
+Indonesia
+Indonesian
+industry
+inequality
 influence
 information
+infrastructure
+ingredient
 injure
+injustice
 ink
-inner
+innovation
 inside
-inspiration
+inside
+inspire
+inspire ... to 〜
+instant
 instead
 instead of
+institution
 instruction
+instrument
 interdependent
-interest
 interested
 interesting
 international
+internationally
 internet
 interview
+interview
+into
+into
 into
 introduce
-Inuit
 invent
 invention
 inventor
 invite
 is
+is
+is
+is
 island
 isn’t
 it
-It is said that ….
-it is time to …
-it’ll
+it
+it
+it
+it
+IT
+It is said that ....
+it is time to
 it’s
+Italian
 Italy
+item
 its
-IUCN
+jacket
 jail
-jam
 January
 Japan
 Japanese
-jar
-jet
+Japanese
+jeans
+jewel
 job
-jog
-jogging
 join
-Josh
+joy
 judge
 juice
 July
 jump
-jump rope
 June
-junior
-junior high (school)
+jungle
+junior high school
+just
+just
 just
 Just a moment.
-Justin Thyme
-Kamchatka
+justice
 keep
-keep …ing
+keep
+keep ...ing
+keep on ...ing
 Kenya
 kept
-kick
+key ring
 kill
+kill
+killer whale
 kilometer
+kind
 kind
 kindness
 king
 kit
 kitchen
+kitten
+kiwi
 kiwi
 kiwi fruit
 knee
 knew
+knitted
 knock
 know
-knowledge
 known
 koala
+Korea
+Korean
+labor
+Labor Thanksgiving Day
+lacrosse
 lake
 lamp
 land
+landmark
+landscape
+landslide
 language
 large
+large
+last
 last
 late
 later
-latest
 law
 lawyer
+lay
+lazy
+lead
 lead
 leader
-leading
+leadership
 leaf
 learn
+least
+leather
 leave
-leaves
-LED
+leave
 left
+left
+left
+left-handed
 leg
 legacy
 lemon
 less
+lesson
 let
-let’s
-Let's see.
+let
+let
+Let’s see.
+let's
+letter
 letter
 lettuce
 library
+lie
+life
+life
 life
 light
+light
+light
 like
-like …ing
-Lily
-limited
+like
+-like
+like ...ing
+limit
 line
+line
+linen
+link
 link
 lion
+lip balm
+list
 list
 listen
 listen to
 liter
 little
+little
+little
+little
 little by little
+little by little
+live
 live
 lives
 living
+living room
 local
-locally
+locate
+log
 logging
-London
 lonely
 long
+long
 long ago
+look
 look
 look at
 look for
 look forward to
+look up
 lose
 loss
 lost
 lot
-lots of
+lot
+loud
 love
-Love,
+love
+low
+low
 luck
 lucky
-luggage
 lullaby
 lunch
-Mac
 made
-magazine
-magnet
-Mahatma
+made
 main
 make
-make all the difference
-Malay
+make
+make
+Malala Yousafzai
 man
-mango
+management
+manner
+manufacturer
+many
 many
 map
-marathon
+maple
+maple syrup
+marble
 March
-Margaret
+march
+Marine Day
 marker
 market
-Martin Luther King, Jr.
 match
+material
 math
 May
-May I …?
-May I help you?
+may
+may
+May I ...?
 maybe
+mayonnaise
 mayor
 me
-Me, too.
+me
 mean
-meaning
 meant
 measure
 meat
 mechanical
+medicine
 medium
 meet
-Meg
+meet
 melon
 member
 memory
 men
 menu
-Merlion
-Merlion Park
 message
 met
-metal
 meter
+Mexico
 middle
 midnight
-Mike
+midterm examination
+mighty
+migratory
+mild
 milk
+million
+mind
 mine
-mineral water
-mini
+mine
 mini debate
-mining
 minute
 mirror
+mischief
 miss
-mist
-misunderstand
+mistake
 mix
 mixed
+model
 mom
 moment
 mommy
@@ -1198,20 +1629,37 @@ Monday
 money
 monkey
 month
+moon
+mop
 moral education
+morally
+more
+more
+more
+more
 more
 more and more
 more than
+more than
 moreover
 morning
+mosque
+most
+most
+most
+most
 most
 most of
 mother
 mountain
+Mountain Day
 mouse
 mouth
 move
+move
+move
 move on
+movement
 movement
 movie
 Mr.
@@ -1219,44 +1667,61 @@ Mrs.
 Ms.
 Mt.
 much
+much
+much
+much
+mug
+multi-
 museum
 mushroom
 music
 musical
-musician
 must
 must not
 mustn’t
 my
-My pleasure.
 myself
 name
-name … after ～
-Naples
+name
+name ... after ～
+narrow
+nation
 national
+National Foundation Day
+native
 natural
 natural gas
 nature
+naughty
 near
+near
+nearby
+neatly
 necessary
+neck
+necklace
+need
 need
 need to
 negative
 neighbor
-Nelson Mandela
+nephew
 nervous
-netball
+net
+never
 never
 new
-New Year’s Day
-New Year’s Eve
+New Year
+New Year's Day
+New Year's Eve
 New Zealand
 news
 newspaper
 next
-next door
+next
 nice
 Nice to meet you.
+niece
 night
 nine
 nineteen
@@ -1264,172 +1729,256 @@ nineteenth
 ninety
 ninth
 no
+no
+no
+no longer
+no longer
 No problem.
 No, thank you.
 nod
+noisy
 non-violence
 non-violent
 noodle
 noon
+northern
 nose
 not
-not … at all
-not always
-not only … but also ～
+not ... at all
+not only ... but (also) ～
+note
 note
 notebook
 nothing
 November
 now
+now
+now
+nowadays
 nuclear
 nuclear power
 nuclear waste
-nuclear weapon
+number
 number
 nurse
+nursery
+nursery school
 nurse's office
-nut
+nursing home
 o’clock
+object
 ocean
 October
+octopus
+of
+of
+of
+of
+of
+of
+of
+of
+of
 of
 of course
 off
+off
+offer
 office
 often
 oh
-Oh, my goodness!
 oil
-oily
 OK
+OK
+Okinawa rail
 old
-Olympic(s)
+old
+old
 omelet
 on
-on foot
-on one's way (to)
+on
+on
+on
+on
+on
+on
+on
+on
+on one’s way (to) 
 on the internet
 on the other hand
-on the way back
-on TV
+on top of
 once
 one
-one by one
+one
+one
 one day
 one of
+one-on-one
 onion
+online
+online
 only
 oops
 open
+open
+open-air
+opening
 operation
 opinion
+opportunity
+optional
+or
+or
 or
 orange
+orange
+order
 ordinary
+organic
+origin
 original
 originally
+other
+other
 other
 our
 ours
 out
-out of …
-outdoor
+out
+out
+out of
+outgoing
+outside
 outside
 over
+over
+over
 over here
-over there
+over tourism
+overhunting
 overseas
+overseas
+oversleep
 own
+owner
+oxygen
 P.E.
 p.m.
+pack
+page
 paid
+paint
 painting
+pair
+pajama
+Pakistan
+palace
+pan
+pancake
 panda
 pants
 paper
-paper crane
-Paralympic
-Paralympic Games
+paper
 pardon
 Pardon me?
 parent
 parfait
 park
-parking lot
+park
+parking
+parking area
 part
+partnership
 party
 pass
-pass by
-pass on … to ～
+pass
+pass away
+pass on ... to ～
 past
+paste
+pastime
+patient
+patty
 pay
 peace
-Peace Memorial Park
 peaceful
 peach
+pear
 pen
 pencil
 pencil case
-pencil sharpener
+penguin
 people
+per
 percent
+peregrine falcon
 perfect
 perform
 performance
 performer
 period
 person
-Phillipines
+personality
+pesticide
+pet
 phone
 photo
 photograph
 photographer
+photography
+physical checkup
 piano
 pick
-pick … up
+pick up
 picnic
+pictogram
 picture
+picture book
 pie
 piece
-pig
-pilaf
+pillow
 pilot
+pine
 pineapple
 pink
-Pixar
 pizza
 place
+place
 plan
+planet
 planet
 plant
 plastic
 plastic bag
-plastic bottle
 plate
 play
+play
+play
+play
+play with
 player
 playful
-playgrounｄ
-playing
 please
-pleasure
+plum
+plush toy
 pocket
-poem
-poet
 point
-polar bear
-police 
 police officer
 police station
-pond
+pollute
+pollution
+polo shirt
+polyurethane
+pool
 poor
 pop
-pop culture
-popcorn
+pop
 popular
 population
-populous
 pork
+Portuguese
+position
 positive
 possible
 post
@@ -1438,36 +1987,62 @@ poster
 pot
 potato
 pottery
-powder
+pour
+poutine
+poverty
+power
+power
 power
 powerful
 practice
+practice
+pray
 precious
+prefecture
+prehistoric
+prejudice
 prepare
 prepared
 present
 presentation
-preserve
 president
 pretty
 price
 principal's office
 print
+printer
 probably
 problem
+problem-solving
 produce
 product
+production
 professor
+program
 progress
+prohibit
+promote
 prop
 protect
+protection
 protest
-pudding
+protest
+proud
+provide
+public
+publish
+puck
 pull
+puppy
+pure
 purple
 pursue
 put
+put
+put
+quality
 quarter
+Quebec
 queen
 question
 quickly
@@ -1478,143 +2053,195 @@ quiz
 rabbit
 racket
 radiation
-radish
-Raffles Place
 rain
+rain forest
 rainbow
 rainwater
 rainy
+raise
+ramen
 ramp
 ran
 rapidly
 raw
 reach
 read
+read
+read
+reader
 reading
 ready
 real
 realize
 really
+really
 reason
+reasonable
 receive
+recently
 recipe
 recognize
+recommend
+recommended
 recorder
+recovery
 rectangle
+recycle
+recycled
+recycling
 red
-Red List
+red pickled ginger
+reduce
+reflect
+regardless
+regardless of
+region
+regional
+reject
 relate
-relate … to ～
-relation
 relationship
 relatively
 relax
 relay
 release
+release
+relieved
+remaining
 remember
 remind
-remind … of ～
+remind ... of ～
 remove
 renewable
+repeat
 reply
 report
+represent
+require
 research
 researcher
 reservation
 resident
 resource
 respect
+Respect-for-the-Aged Day
+respectful
+responsible
+rest
+rest
 rest
 restaurant
 restroom
 result
+retell
 return
-Reyhan Jamalova
-rhyme
-rhythm
-Rialto Bridge
+reusable
+review
 rice
 rice ball
+rice bowl
+rice cake
 rich
 ride
 right
+right
+right
+right
+right
 right away
+right-handed
+ring
 rise
+ritual
 river
+riverbank
 road
 rode
 role
-roll
-Ronald Mace
-rookie
+roller coaster
 room
+root
 rose
 round
-row
 rugby
+rule
 rule
 ruler
 run
-run away
+run
+run
 run out of
 runner
-rupee
-sacred
+Russia
+Russian
 sad
 safe
 safely
 said
-sailing
+said
 salad
-sale
 salt
 salty
 same
+sandal
 sandwich
-satisfy
+sanitation
 Saturday
 sauce
+Saudi Arabia
 sausage
+savanna
+save
 save
 saw
 say
+say
 Say cheese!
+say to oneself
 scared
-scary
+scarf
 scene
+schedule
 school
-school festivel
+school festival
 school trip
+schoolyard
 science
-science fiction
 scientist
 scissors
-scuba
-scuba diving
+scold
+score
+scroll
 sea
-sea level(s)
+sea otter
+sea turtle
 seafood
 season
-seasonal
-seaweed
 second
+second
+second
+see
+see
 see
 See you.
 seem
 seen
 select
 selection
+selfish
 sell
 send
-sense
+sent
 sent
 sentence
 September
 serious
+serve
 server
 service
 set
+set
 set up
+setter
 seven
 seventeen
 seventeenth
@@ -1624,49 +2251,55 @@ several
 severe
 shade
 shadow
-shaking
 shall
-Shall I [we] …?
 shape
 share
+shark
 shaved ice
 she
 she’s
 sheep
+shell
 shelter
-ship
 shirt
-Shishmaref
+shock
 shoe
+shoot
+shop
 shop
 shopping
+shopping arcade
 short
+shortly
 shorts
+shot
 should
 shoulder
+shout
+show
+show
 show
 shower
+shown
 shrine
 shy
-sick
 side
+side dish
 sidewalk
-sight
-similar
-simple
-simulation
+sign
+silence
+silver
 since
+sincerely
+Sincerely (yours),
 sing
 Singapore
-Singapore Flyer
 singer
-sinigang
-sink
 sister
 sit
+sit down
 site
-sitting
-sitting volleyball
+situation
 six
 sixteen
 sixteenth
@@ -1675,209 +2308,298 @@ sixty
 size
 skate
 ski
+skiing
 skill
+skirt
 sky
 sleep
+sleeping
 sleepy
+slept
 slide
 slow
 slowly
 small
+small
+smart
 smartphone
 smile
-Smith
+smile
+smoke
 snack
 snake
+sneaker
 snow
-Snow Festival
+snowboarding
 snowy
 so
-so … that ～
-so far
+so
+so
+so
+so ... that 〜
+so far 
 soccer
 social studies
 society
-soda pop
+sock
+soda
 soft
+softball
 sold
+solution
 solve
 some
-some of …
+some
+some
+some
+some of
 someday
-somehow
 someone
 something
 sometime
 sometimes
-somewhere
 son
 song
 soon
 sorry
+sorry
+sort
+so-so
+sound
 sound
 sound like
-Sounds ….
+Sounds ....
 soup
 sour
 South Africa
+souvenir
+soy sauce
 spaghetti
+Spain
+Spanish
 speak
 speaker
 special
 species
-specific
 speech
 speed
 spell
 spend
 spent
-spice
+spicy
 spider
+spiker
+spill
+spirit
+spiritual
 spoke
-spoken
 sport
 sports day
-sporty
 spot
 spread
+spread
+spread
 spring
+spring
+spring onion
 square
+square
+squirrel
+stab
 stadium
 staff
 stage
 stair
 stand
+stand
+stand
 stand up
 standard
+Stanley Park
 stapler
 star
 Star Festival
 start
+start
 starter
 station
 stationery
-Statue of Liberty
+stay
+stay
 stay
 steak
-steal
 steam
-Steve Jobs
 stick
 still
-stole
+stir
+stir-fry
 stomachache
 stood
 stop
+stop
+stop
 store
+storm
 story
 straight
+strange
+strategy
+straw
 strawberry
 street
 strength
 strict
+string
 strong
+structure
+struggle
 student
+student council
 studio
 study
+-style
 stylish
 subject
-subway
-successful
+subtropical
 such
+sudden
 suddenly
+suffer
+suit
 summer
 sun
 Sunday
+sunglasses
 sunny
 sunrise
+sunscreen
+sunset
 sunshine
-super
 supermarket
+supervision
 supply
 support
 sure
-surfing
-surgery
-surprise
-surprise party
+sure
+surf
 surprised
-surprisingly
 surround
 survey
 survival
 survive
 sustainable
 sweater
+sweatshirt
+sweet
+sweet
 sweet
 swim
 swimming
 swimming meet
-Sydney
-syllable
+swimming pool
+sword
 symbol
 table
 table tennis
+tablet
+tablet
 tag
 take
-take … away
-take a look
+take
+take
+take
+take
+take
+take
 take a rest
+take advantage of
 take care of
-taken
+take off
+talent
+Taliban
 talk
+talkative
 tall
-Tamil
+tap
+task
+taste
+tasty
 taught
 tax
 taxi
 tea
+tea ceremony
 teach
 teacher
+teachers’ office
 team
+teammate
+technique
 technology
+teen
 teeth
-telephone
 tell
-tell … to ～
 temple
 ten
 tennis
 tent
 tenth
+term
 terrible
+terrorism
+terrorist
 text
 textbook
+texture
 Thailand
 than
 thank
-Thank you [Thanks] for ….
+thank
 Thank you.
+Thank you［Thanks］for ....
 thanks to
 Thanks.
 that
+that
+that
+that
+that
 that’s
-That's right.
-That's too bad.
-That's very kind of you.
+That’s very kind of you.
 the
-the "Golden Week" horidays
-the Salt March
+the
+the
+the
+the
+the
+the
+the
+The Autumnal Equinox
+The Emperor's Birthday
+the First Nations
+The Vernal Equinox
 theater
 their
 theirs
 them
-themselves
+then
 then
 there
-there is [are]
+there is［are］
 there’s
+therefore
+thermal
+these
 these
 they
-they’ll
 they’re
 thick
+thin
 thing
 think
+think
+think outside the box
+third
 third
 thirsty
 thirteen
@@ -1885,80 +2607,110 @@ thirteenth
 thirtieth
 thirty
 this
+this
+this
+this
+this
 this way
 those
-though
+thought
 thought
 thousand
 thousands of
+threat
 three
+thrilling
 through
-throw
+through
+through
+throughout
+thunderstorm
 Thursday
 ticket
+tidal wave
+tie
 tiger
 tightly
 time
-time keeping
+time
+time
+time
+timekeeping
 tiny
 tired
-title
 to
-toast
+to
+to
+to
+to
+to
+to
+to
+to
+to
 today
 toe
 together
 told
+tolerant
 tomato
 tomorrow
 ton
 too
-too … to ～
+too
 took
 tooth
 toothache
+top
 topic
+topping
+tornado
 touch
+touchless
 tough
 tour
+tourism
 tourist
-tournament
+tourist attraction
+toward
 towel
-tower
 town
+toy
 track and field
 trade
 tradition
 traditional
-traffic
+traffic accident
+traffic jam
 traffic light
 trail
 train
-translate
-translation
-translator
-transport
-trash
+transportation
+trap
 travel
 traveler
 tree
 triangle
-triathlon
+triangle
+trick
 trip
 trivia
 trouble
-truck
 true
-trumpet
 trust
 try
 try to
 T-shirt
-Tube
+tsunami
 Tuesday
-tundra
+turf
+Turkey
+Turkish
+turn
+turn
 turn
 turn into
+turn off
 turn on
 TV
 twelfth
@@ -1966,45 +2718,62 @@ twelve
 twentieth
 twenty
 twice
-twice as … as ～
+twice as ... as ～
 two
 type
-tyrannosaurus
+typhoon
 U.K.
 U.S.
+Ukraine
 umbrella
-umm
 uncle
-uncomfortable
+under
 under
 understand
 understood
-UNESCO
 unfair
-unicycle
+unfold
 uniform
 unique
+United Nations Women
 United States
 universal
-universal design
 university
+unlucky
+unspoiled
 until
 unused
+unusual
 up
-up until
+up
+up
+up
+up
+up
+up
+upon
+upset
 us
 use
+use
 useful
-user
 usually
+utilize
+V sign
 vacation
+value
+variation
 variety
 various
+vary
+vegan
+vegan leather
 vegetable
-Venice
+vendor
 very
 very much
 vet
+via
 video
 video game
 village
@@ -2013,37 +2782,46 @@ violin
 visit
 visitor
 voice
+voice actor
 volleyball
 volunteer
-volunteer day
+vulnerable
+wage
 wait
 wake
 wake up
 walk
-walk around
+walk
 wall
+wallet
 want
-want … to ～
+want ... to ～
 want to
 war
+warehouse
 warm
 was
 wash
 wasn’t
 waste
+waste
+watch
 watch
 water
+water pollution
 water power
 watermelon
-waterproof
 wave
 way
+way
 way to
+we
 we
 we’ll
 we’re
 we’ve
 weak
+weakly
 weapon
 wear
 weather
@@ -2054,105 +2832,141 @@ weekday
 weekend
 weigh
 weight
-weightlifting
 welcome
-welcome to ….
+welcome
+Welcome to ....
 well
+well
+well
+well
+well-being
 well-known
 well-off
 went
 were
 weren’t
-west
-Westminster
+Western
+wet
+wetland
 whale
 what
-What about …?
+what
+what
 what to
 what’s
-what's
-What's up?
-What's wrong?
+What’s up?
+What’s up?
+What’s wrong?
+whatever
 wheelchair
 when
-when's
+when
+when’s
 where
-where's
+where’s
+which
 which
 while
+whistle
 white
 who
+who
 who’s
+whole
 whose
 why
-Why don't we …?
+Why don’t we ...?
 wide
+widely
 wife
 wild
+wild
 wilderness
+wildlife
 will
-Wilson
+will
+win
 win
 wind
 wind power
 window
+windy
+wing
 winner
 winter
 wisdom
+wise
 wish
+wish
+wish
+with
+with
+with
+with
 with
 with a smile
 without
 woke
+wolf
 woman
-women
 won
 won’t
 wonder
+wonder
 wonderful
+wooden
+wool
+word
 word
 work
-work on
-work out
+work
+work
+worker
+working
 world
-World Cup
-World Heritage site
 worldwide
+worried
 worry
 worth
-worth …ing
+worth ...ing
+would
 would
 would like
-would like … to ～
+would like ... to 〜
 would like to
+would love to
 wow
-Woz
 wrap
-wrestling
 write
-write … back
+write
 writer
-written
+wrong
 wrong
 wrote
-yeah
+xylophone
+year
 year
 yellow
-yen
+yellow dust
+yes
 yes
 yesterday
 yet
-yogurt
+yet
 you
-you know
+you
+you
 you’ll
 you’re
+You’re welcome.
 you’ve
 young
 your
-You're welcome.
 yours
 yourself
+youth
+yo-yo
+zebra
 zero
+zipper
 zoo
-zookeeper
